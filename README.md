@@ -32,10 +32,10 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td> 1 </td>
+            <td> 0 </td>
+            <td> <b>Введення в аналітику даних</b>b> </td>
+            <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 2 </td>
@@ -46,43 +46,43 @@
         <tr>
             <td> 3 </td>
             <td> 0 </td>
-            <td> Excel та Google Sheets </td>
+            <td> <b>Excel та Google Sheets</b> </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 4 </td>
             <td> 0 </td>
-            <td> SQL- мова даних </td>
+            <td> <b>SQL- мова даних</b> </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 5 </td>
             <td> 0 </td>
-            <td> Python для аналізу даних </td>
+            <td> <b>Python для аналізу даних</b> </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 6 </td>
             <td> 0 </td>
-            <td> Візуалізація даних та Business Intelligence </td>
+            <td> <b>Візуалізація даних та Business Intelligence</b> </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 7 </td>
             <td> 0 </td>
-            <td> AI-інструменти аналітика </td>
+            <td> <b>AI-інструменти аналітика</b> </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 8 </td>
             <td> 0 </td>
-            <td> Надання висновків та практичних рекомендацій </td>
+            <td> <b>Надання висновків та практичних рекомендацій</b> </td>
             <td>  Сторінка хх </td>
         </tr>
         <tr>
             <td> 9 </td>
             <td> 0 </td>
-            <td> Міжнародні стандарти звітності </td>
+            <td> <b>Міжнародні стандарти звітності</b> </td>
             <td> Сторінка хх </td>
         </tr>
     </tbody>
