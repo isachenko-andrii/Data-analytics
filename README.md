@@ -1,5 +1,11 @@
 ![Data analytics](https://github.com/isachenko-andrii/Data-analytics/raw/main/img/book-cover-smoll.png)  
 
+  <div align="center">  
+    
+## «Аналітика даних: Від новачка до аналітика»   
+  
+</div> 
+  
 ## Передмова  
   
 Вітаю в репозиторії проєкту «Аналітика даних: Від новачка до аналітика»!  
