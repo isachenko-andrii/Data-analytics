@@ -21,7 +21,7 @@
   
 ## Зміст  
   
-<table>
+<table style="width:100%">
     <thead>
         <tr>
             <th> Блок </th>
