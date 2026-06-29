@@ -1,4 +1,7 @@
 ###   
+| Блок | Розділ | Назва | Назва |
+| :--- | :--- | :--- | :--- |
+| - | - | Додаток А: Глосарій ключових термінів | <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md" alt="Аналітика даних: Від новачка до аналітика" > ⬆ до змісту </a> |
   
 <div align="center">
 <table>
