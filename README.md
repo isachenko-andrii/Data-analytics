@@ -109,6 +109,12 @@
             <td> <b>Додаток B: Безкоштовні ресурси для навчання</b> </td>
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/addition-b" alt="Безкоштовні ресурси для навчання" > Читати >> </a> </td>
         </tr>
+        <tr>
+            <td>   </td>
+            <td>   </td>
+            <td> <b>Додаток C: Корисні посилання</b> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/addition-c" alt="Безкоштовні ресурси для навчання" > Читати >> </a> </td>
+        </tr>
     </tbody>
 </table>
   
