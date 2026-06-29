@@ -4,14 +4,13 @@
 
 ## Зміст  
   
-    <div class="table-container">
-        <table class="github-table">
+        <table>
             <thead>
                 <tr>
-                    <th>ID</th>
-                    <th>ПІБ Студента</th>
-                    <th>Дисципліна</th>
-                    <th>Оцінка (ECTS)</th>
+                    <th>№</th>
+                    <th>№</th>
+                    <th> Назва </th>
+                    <th> Сторінка </th>
                 </tr>
             </thead>
             <tbody>
@@ -71,7 +70,6 @@
                 </tr>
             </tbody>
         </table>
-    </div>
 
 
 ## Контакти  
