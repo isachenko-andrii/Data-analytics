@@ -91,6 +91,12 @@
             <td> <b>Додаток А: Глосарій ключових термінів</b> </td>
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/addition-a" alt="Глосарій ключових термінів" > Читати >> </a> </td>
         </tr>
+        <tr>
+            <td>   </td>
+            <td>   </td>
+            <td> <b>Додаток B: Безкоштовні ресурси для навчання</b> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/addition-b" alt="Безкоштовні ресурси для навчання" > Читати >> </a> </td>
+        </tr>
     </tbody>
 </table>
   
