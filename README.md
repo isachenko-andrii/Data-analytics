@@ -41,49 +41,49 @@
             <td> 2 </td>
             <td> 0 </td>
             <td> <b>Основи статистики для аналітика</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-2-0.md" alt="Основи статистики для аналітика" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 3 </td>
             <td> 0 </td>
             <td> <b>Excel та Google Sheets</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-3-0.md" alt="Excel та Google Sheets" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 4 </td>
             <td> 0 </td>
             <td> <b>SQL- мова даних</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-4-0.md" alt="SQL- мова даних" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 5 </td>
             <td> 0 </td>
             <td> <b>Python для аналізу даних</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-5-0.md" alt="Python для аналізу даних" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 6 </td>
             <td> 0 </td>
             <td> <b>Візуалізація даних та Business Intelligence</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-6-0.md" alt="Візуалізація даних та Business Intelligence" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 7 </td>
             <td> 0 </td>
             <td> <b>AI-інструменти аналітика</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-7-0.md" alt="AI-інструменти аналітика" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 8 </td>
             <td> 0 </td>
             <td> <b>Надання висновків та практичних рекомендацій</b> </td>
-            <td>  Сторінка хх </td>
+            <td>  <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-8-0.md" alt="Надання висновків та практичних рекомендацій" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 9 </td>
             <td> 0 </td>
             <td> <b>Міжнародні стандарти звітності</b> </td>
-            <td> Сторінка хх </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-9-0.md" alt="Міжнародні стандарти звітності" > Читати >> </a> </td>
         </tr>
     </tbody>
 </table>
