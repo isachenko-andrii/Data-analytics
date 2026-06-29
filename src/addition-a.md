@@ -11,7 +11,7 @@
         <tr>
             <td> - </td>
             <td> - </td>
-            <td> <b>Додаток А: Глосарій ключових термінів</b> </td>
+            <td> <b>Додаток А: Глосарій ключових термінів</b>                                                                                           </td>
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md" alt="Аналітика даних: Від новачка до аналітика" > Назад до змісту </a> </td>
         </tr>
     </tbody>
