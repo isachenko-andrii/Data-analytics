@@ -1,3 +1,4 @@
+<div align: center;>
 <table>
     <thead>
         <tr>
@@ -12,16 +13,13 @@
             <td> - </td>
             <td> - </td>
             <td> <b>Додаток А: Глосарій ключових термінів</b>                                                                                           </td>
-            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md" alt="Аналітика даних: Від новачка до аналітика" > Назад до змісту </a> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md" alt="Аналітика даних: Від новачка до аналітика" > ⬆ до змісту </a> </td>
         </tr>
     </tbody>
 </table>
-
-# 📊 Comprehensive Data Analytics & Engineering Glossary                                [⬆ Назад до змісту](https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md)
+</div>
 
 Цей глосарій — це жива база знань, яка охоплює ключові поняття з дата-аналітики, інженерії даних (Data Engineering), продуктових метрик, прикладної статистики та машинного навчання (Machine Learning). 
-
-Файл повністю оптимізований для відображення на GitHub та містить інтерактивну навігацію.
 
 ---
 
