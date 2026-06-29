@@ -35,7 +35,7 @@
             <td> 1 </td>
             <td> 0 </td>
             <td> <b>Введення в аналітику даних</b> </td>
-            <td> [Читати](https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-0.md) </td>
+            <td> [Читати](https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-0.md) [EN](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/README.md)</td>
         </tr>
         <tr>
             <td> 2 </td>
