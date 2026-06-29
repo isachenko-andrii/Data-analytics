@@ -12,7 +12,7 @@
             <td> - </td>
             <td> - </td>
             <td> <b>Додаток А: Глосарій ключових термінів</b> </td>
-            <td> <a href="[https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-0.md](https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md)" alt="Аналітика даних: Від новачка до аналітика" > Назад до змісту </a> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md" alt="Аналітика даних: Від новачка до аналітика" > Назад до змісту </a> </td>
         </tr>
     </tbody>
 </table>
