@@ -24,8 +24,8 @@
 <table>
     <thead>
         <tr>
-            <th> </th>
-            <th> </th>
+            <th> Блок </th>
+            <th> Розділ </th>
             <th> Назва </th>
             <th> Сторінка </th>
         </tr>
