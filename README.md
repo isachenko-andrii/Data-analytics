@@ -1,1 +1,1 @@
-![Data analytics cook cover](https://github.com/isachenko-andrii/Data-analytics/raw/main/book-cover-smoll.png)
+![Data analytics cook cover](https://github.com/isachenko-andrii/Data-analytics/raw/img/main/book-cover-smoll.png)
