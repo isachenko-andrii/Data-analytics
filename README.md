@@ -85,6 +85,12 @@
             <td> <b>Міжнародні стандарти звітності</b> </td>
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-9-0.md" alt="Міжнародні стандарти звітності" > Читати >> </a> </td>
         </tr>
+        <tr>
+            <td>   </td>
+            <td>   </td>
+            <td> <b>Додаток А: Глосарій ключових термінів</b> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/addition-a" alt="Глосарій ключових термінів" > Читати >> </a> </td>
+        </tr>
     </tbody>
 </table>
   
