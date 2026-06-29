@@ -40,13 +40,13 @@
         <tr>
             <td> 2 </td>
             <td> 0 </td>
-            <td> **Основи статистики для аналітика** </td>
+            <td> <b>Основи статистики для аналітика</b> </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
             <td> 3 </td>
             <td> 0 </td>
-            <td> **Excel та Google Sheets** </td>
+            <td> Excel та Google Sheets </td>
             <td> Сторінка хх </td>
         </tr>
         <tr>
