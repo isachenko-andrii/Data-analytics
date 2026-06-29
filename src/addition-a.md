@@ -1,4 +1,4 @@
-# 📊 Comprehensive Data Analytics & Engineering Glossary
+# 📊 Comprehensive Data Analytics & Engineering Glossary                                [⬆ Назад до змісту](https://github.com/isachenko-andrii/Data-analytics/blob/main/README.md)
 
 Цей глосарій — це жива база знань, яка охоплює ключові поняття з дата-аналітики, інженерії даних (Data Engineering), продуктових метрик, прикладної статистики та машинного навчання (Machine Learning). 
 
