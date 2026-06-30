@@ -40,8 +40,8 @@
         <tr>
             <td> 1 </td>
             <td> 0 </td>
-            <td> <b>Введення в аналітику даних</b> </td>
-            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-0.md" alt="Введення в аналітику даних" > Читати >> </a> </td>
+            <td> <b>Вступ до аналітики даних</b> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-0.md" alt="Вступ до аналітики даних" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 2 </td>
