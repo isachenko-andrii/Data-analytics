@@ -44,6 +44,12 @@
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-0.md" alt="Вступ до аналітики даних" > Читати >> </a> </td>
         </tr>
         <tr>
+            <td> 1 </td>
+            <td> 1 </td>
+            <td> <b>Історія аналітики даних</b> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-1.md" alt="Історія аналітики даних" > Читати >> </a> </td>
+        </tr>
+        <tr>
             <td> 2 </td>
             <td> 0 </td>
             <td> <b>Основи статистики для аналітика</b> </td>
