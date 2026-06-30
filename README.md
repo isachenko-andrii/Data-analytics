@@ -49,11 +49,17 @@
             <td> <b>Історія аналітики даних</b> </td>
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-1.md" alt="Історія аналітики даних" > Читати >> </a> </td>
         </tr>
-              <tr>
+        <tr>
             <td> 1 </td>
             <td> 2 </td>
             <td> <b>Хто такий Data Analyst: повне визначення ролі</b> </td>
             <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-2.md" alt="Хто такий Data Analyst: повне визначення ролі" > Читати >> </a> </td>
+        </tr>
+        <tr>
+            <td> 1 </td>
+            <td> 3 </td>
+            <td> <b>Процес аналізу даних у реальному житті: повний цикл</b> </td>
+            <td> <a href="https://github.com/isachenko-andrii/Data-analytics/blob/main/src/block-1-3.md" alt="Процес аналізу даних у реальному житті: повний цикл" > Читати >> </a> </td>
         </tr>
         <tr>
             <td> 2 </td>
